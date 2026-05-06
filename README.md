@@ -8,9 +8,6 @@ HTML,
 CSS,
 JavaScript,
 TailwindCSS (CLI),
-__Netlify__
-
-__*Live op netlify bij ---*__
 
 **Lokaal Gebruik**
 Met gebruikt van Live Server, open éen van de html docs live.
