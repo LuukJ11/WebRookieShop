@@ -3,18 +3,18 @@ Opdracht voor Webrookie Eindproject - webshop
 
 -
 
-**USAGE / DEPENDENCIES**
-HTML
-CSS
-JavaScript
-TailwindCSS (CLI)
-Netlify
+**Gebruikt**
+HTML,
+CSS,
+JavaScript,
+TailwindCSS (CLI),
+__Netlify__
 
-*Live op netlify bij ---*
+__*Live op netlify bij ---*__
 
-**LOKAAL GEBRUIK**
+**Lokaal Gebruik**
 Met gebruikt van Live Server, open éen van de html docs live.
 
 Om bij de admin pagina te komen, vervang de pagina naam met 'admin.html'.
 
-Volgens de gegeven opdracht moest alle data via localStorage verwerkt worden
+Volgens de gegeven opdracht moest alle data via localStorage verwerkt worden.
